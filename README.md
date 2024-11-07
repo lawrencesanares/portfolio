@@ -5,3 +5,10 @@ Experienced Release Manager with a proven track record in managing end-to-end re
 Orchestrated releases, achieving go-live for critical systems on digital transformation government projects.
 ### Release Automation Expert
 Championed release process transformation, enhancing efficiency and streamlining deployments through automation.
+### ITIL and Agile SAFe Practitioner
+Played a key role in upholding ITSM-ITIL standards and guided teams through the transition to Agile processes.
+### ITIL and Agile SAFe Practitioner
+Spearheaded continuous improvement, enhancing release efficiency and driving high-quality software delivery.
+### Skills
+- Release Management, Change Management, Stakeholder management, Cross-functional coordination, Leadership and Communication,
+- Release Automation CI/CD, ServiceNow, ITIL, Agile Methodologies, AWS, Azure DevOps, DevSecOps, Oracle
