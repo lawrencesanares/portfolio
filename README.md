@@ -9,6 +9,6 @@ Championed release process transformation, enhancing efficiency and streamlining
 Played a key role in upholding ITSM-ITIL standards and guided teams through the transition to Agile processes.
 ### ITIL and Agile SAFe Practitioner
 Spearheaded continuous improvement, enhancing release efficiency and driving high-quality software delivery.
-### Skills
+## Skills
 - Release Management, Change Management, Stakeholder management, Cross-functional coordination, Leadership and Communication,
 - Release Automation CI/CD, ServiceNow, ITIL, Agile Methodologies, AWS, Azure DevOps, DevSecOps, Oracle
