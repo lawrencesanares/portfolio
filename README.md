@@ -15,4 +15,5 @@ Spearheaded continuous improvement, enhancing release efficiency and driving hig
 - Release Management, Change Management, Stakeholder management, Cross-functional coordination, Leadership and Communication,
 - Release Automation CI/CD, ServiceNow, ITIL, Agile Methodologies, AWS, Azure DevOps, DevSecOps, Oracle
 
-<object data="the.pdf" width="1000" height="1000" type='application/pdf'/>
+## Publication
+<object data="/assets/pub/Release Management History.pdf" width="1000" height="1000" type='application/pdf'/>
