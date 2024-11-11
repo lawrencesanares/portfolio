@@ -16,4 +16,5 @@ Spearheaded continuous improvement, enhancing release efficiency and driving hig
 - Release Automation CI/CD, ServiceNow, ITIL, Agile Methodologies, AWS, Azure DevOps, DevSecOps, Oracle
 
 ## Publication
-<object data="assets/pub/Release Management History.pdf" width="1000" height="1000" type='application/pdf'/>
+![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+
