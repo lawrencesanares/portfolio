@@ -3,7 +3,7 @@ logo: /assets/img/LS_headshot_circle.PNG
 #description: text below image
 #show_downloads: true
 #theme type: minimal | architect |cayman
-theme: jekyll-theme-cayman
+theme: jekyll-theme-architect
 github:
   is_project_page: false
 
