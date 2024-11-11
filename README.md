@@ -15,13 +15,8 @@ Spearheaded continuous improvement, enhancing release efficiency and driving hig
 - Release Management, Change Management, Stakeholder management, Cross-functional coordination, Leadership and Communication,
 - Release Automation CI/CD, ServiceNow, ITIL, Agile Methodologies, AWS, Azure DevOps, DevSecOps, Oracle
 
-## Publication
-![Octocat](/assets/pub/rm_history.png? "Release Management History")
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/view_my_linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lawrencesanares/)
+[![portfolio](https://img.shields.io/badge/check_my_Slideshare-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.slideshare.net/LawrenceSanares)
 
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-![Alt text](/assets/pub/rm_history.png? "Release Management History")
 
