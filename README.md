@@ -16,6 +16,12 @@ Spearheaded continuous improvement, enhancing release efficiency and driving hig
 - Release Automation CI/CD, ServiceNow, ITIL, Agile Methodologies, AWS, Azure DevOps, DevSecOps, Oracle
 
 ## Publication
+![Octocat](/assets/pub/rm_history.png? "Release Management History")
+
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
 
 ![Alt text](/assets/pub/rm_history.png? "Release Management History")
 
