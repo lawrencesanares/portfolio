@@ -14,9 +14,9 @@ Spearheaded continuous improvement, enhancing release efficiency and driving hig
 
 ## Key Projects and Roles
 * Defence Health LTD - Release and Environment Manager (1yr. 7mos.)
-* Victorian Land Registry Services (VLRS) - Release Manager (4yrs. 8mos.) 
-* Victorian Land Registry Services (VLRS) - Senior Technical Support Analyst (5yrs+)
-* Department of Human Services (DHS) - Analyst Programmer (3yrs+)
+* Victorian Land Registry Services - Release Manager (4yrs. 8mos.) 
+* Victorian Land Registry Services - Senior Technical Support Analyst (5yrs+)
+* Department of Human Services - Analyst Programmer (3yrs+)
   
 ## Skills
 - Release Management, Change Management, Stakeholder management, Cross-functional coordination, Leadership and Communication,
