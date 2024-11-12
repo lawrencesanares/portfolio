@@ -12,10 +12,11 @@ Played a key role in upholding ITSM-ITIL standards and guided teams through the 
 >### Continuous Improvement Champion
 Spearheaded continuous improvement, enhancing release efficiency and driving high-quality software delivery.
 
-## Key Projects and roles
-* ### Defence Health LTD
-* ### Victorian Land Registry Services (VLRS)
-* ### Department of Human Services (DHS)
+## Key Projects and Roles
+* ### Defence Health LTD - Release and Environment Manager
+* ### Victorian Land Registry Services (VLRS) - Release Manager
+* ### Victorian Land Registry Services (VLRS) - Senior Technical Support Analyst
+* ### Department of Human Services (DHS) - Analyst Programmer
   
 ## Skills
 - Release Management, Change Management, Stakeholder management, Cross-functional coordination, Leadership and Communication,
