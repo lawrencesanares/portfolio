@@ -28,6 +28,14 @@ Spearheaded continuous improvement, enhancing release efficiency and driving hig
 - Release Management, Change Management, Incident and Problem Management, Stakeholder Management, Cross-functional coordination, Leadership and Communication.
 - IT Support, Release Automation CI/CD, ServiceNow, ITIL, Agile Methodologies, AWS, Azure DevOps, DevSecOps, Oracle
 
+## Passions
+### Automation Advocate
+Passionate about exploring and implementing cutting-edge automation technologies to help drive business growth and efficiency.
+### Advancing Digital Change
+I have a deep interest in harnessing digital technologies, streamlining processes, and driving innovation to benefit the business.
+### Team Engagement
+Passionate about helping teams solve problems through collaboration and leveraging diverse perspectives to foster creative solutions.
+
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/view_my_linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lawrencesanares/)
 [![portfolio](https://img.shields.io/badge/check_my_Slideshare-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.slideshare.net/LawrenceSanares)
