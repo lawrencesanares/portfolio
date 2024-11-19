@@ -7,21 +7,24 @@ My greatest achievement lies in successfully implementing a streamlined release 
 Orchestrated releases, achieving go-live for critical systems on digital transformation government projects.
 >### Release Automation Expert
 Championed release process transformation, enhancing efficiency and streamlining deployments through automation.
->### ITIL and Agile SAFe Practitioner
-Played a key role in upholding ITSM-ITIL standards and guided teams through the transition to Agile processes.
+>### Change Management Facilitator
+Played a pivotal role in upholding change management standards, guiding teams and stakeholders through structured processes to ensure seamless adoption of changes.
 >### IT Support Specialist
 Championed ITSM incident and problem management, boosting client relations, improving service continuity, and driving efficient issue resolution.
+>### ITIL and Scaled Agile (SAFe) Practitioner
+Played a key role in upholding ITSM-ITIL standards and guided teams through the transition to Agile processes.
 >### Continuous Improvement Champion
 Spearheaded continuous improvement, enhancing release efficiency and driving high-quality software delivery.
 
 ## Key Projects and Roles
-* Defence Health LTD - Release and Environment Manager (1yr. 7mos.)
-* Victorian Land Registry Services - Release Manager (4yrs. 8mos.) 
-* Victorian Land Registry Services - Senior Technical Support Analyst (5yrs+)
-* Department of Human Services - Analyst Programmer (3yrs+)
+* Defence Health LTD - Release and Environment Manager (1 yr. 7 mos.)
+* Victorian Land Registry Services - Release Manager (4 yrs. 8 mos.) 
+* Victorian Land Registry Services - Senior Technical Support Analyst (5 yrs+)
+* Department of Human Services - Analyst Programmer (3 yrs+)
+* Deltek Systems - Software Developer (2 yrs)
   
 ## Skills
-- Release Management, Change Management, Stakeholder management, Cross-functional coordination, Leadership and Communication,
+- Release Management, Change Management, Incident and Problem Management, Stakeholder Management, Cross-functional coordination, Leadership and Communication.
 - IT Support, Release Automation CI/CD, ServiceNow, ITIL, Agile Methodologies, AWS, Azure DevOps, DevSecOps, Oracle
 
 ## 🔗 Links
