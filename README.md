@@ -36,7 +36,12 @@ I have a deep interest in harnessing digital technologies, streamlining processe
 ### Team Engagement
 Passionate about helping teams solve problems through collaboration and leveraging diverse perspectives to foster creative solutions.
 
+## SlideShare
+
+ <iframe src="https://www.slideshare.net/slideshow/embed_code/key/bof1pSJU9JiUQn?hostedIn=slideshare&page=upload" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
 ## 🔗 Links
+
 [![linkedin](https://img.shields.io/badge/view_my_linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lawrencesanares/)
 [![portfolio](https://img.shields.io/badge/check_my_Slideshare-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.slideshare.net/LawrenceSanares)
 
