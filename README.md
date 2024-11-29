@@ -22,7 +22,7 @@ Spearheaded continuous improvement, enhancing release efficiency and driving hig
 ## Key Projects and Roles
 * Defence Health LTD - Release and Environment Manager (1 yr. 7 mos.)
 * Victorian Land Registry Services - Release Manager (4 yrs. 8 mos.) 
-* Victorian Land Registry Services - Senior Technical Support Analyst - IT Support and Release (5 yrs+)
+* Victorian Land Registry Services - Senior Technical Analyst - IT Support and Release (5 yrs+)
 * Department of Human Services - Analyst Programmer (3 yrs+)
 * Deltek Systems - Software Developer (2 yrs)
   
