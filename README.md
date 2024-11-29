@@ -1,5 +1,7 @@
 # Release Manager | Release Engineering and Automation | ITSM - Delivery | ITIL | ServiceNow
-Experienced Release Manager with a proven track record in managing end-to-end releases for government IT enterprise environments. Proficient in release automation, CI/CD, ITIL v4, and Agile SAFe processes, ensuring smooth and timely delivery of software changes. Strong leadership in guiding teams and stakeholders toward achieving project goals and ensuring alignment with business objectives. 
+Experienced Release Manager with a proven track record in managing end-to-end releases for government IT enterprise environments. Skilled in managing both the technical and non-technical facets of release management, ensuring efficient execution, stakeholder alignment, and high-quality outcomes. Proficient in release engineering, automation, and CI/CD pipelines, with expertise in leveraging Azure DevOps, AWS, ITIL v4, and the Scaled Agile Framework (SAFe) to ensure efficient, seamless, and timely deployments across complex enterprise environments. 
+
+Strong leadership in guiding teams and stakeholders toward achieving project goals and ensuring alignment with business objectives. 
 
 My greatest achievement lies in successfully implementing a streamlined release process, leading to the efficient delivery of go-live products and significant reduction in deployment times through process optimization and automation.
 
