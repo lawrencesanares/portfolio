@@ -5,6 +5,14 @@ Strong leadership in guiding teams and stakeholders toward achieving project goa
 
 My greatest achievement lies in successfully implementing a streamlined release process, leading to the efficient delivery of go-live products and significant reduction in deployment times through process optimization and automation.
 
+## Certifications
+* Academy Accreditation - Generative AI Fundamentals
+* Academy Accreditation - Databricks Fundamentals
+* ServiceNow Certified System Administrator (Xanadu Delta)
+* ITIL® v4 Foundation
+* NVDIA - Artificial Intelligence on Jetson Nano
+* Microsoft (MCP, MCPD, MCAD)
+
 ## Key Achievements
 >### Release Leader
 Orchestrated releases, achieving go-live for critical systems on digital transformation government projects.
@@ -22,13 +30,14 @@ Spearheaded continuous improvement, enhancing release efficiency and driving hig
 ## Key Projects and Roles
 * Defence Health LTD - Release and Environment Manager (1 yr. 7 mos.)
 * Victorian Land Registry Services - Release Manager (4 yrs. 8 mos.) 
-* Victorian Land Registry Services - Senior Technical Analyst - IT Support and Release (5 yrs+)
+* Victorian Land Registry Services - Senior Technical Analyst - Release and IT Support (5 yrs+)
 * Department of Human Services - Analyst Programmer (3 yrs+)
 * Deltek Systems - Software Developer (2 yrs)
   
 ## Skills
 - Release Management, Change Management, Incident and Problem Management, Stakeholder Management, Cross-functional coordination, Leadership and Communication.
 - IT Support, Release Automation CI/CD, ServiceNow, ITIL, Agile Methodologies, AWS, Azure DevOps, DevSecOps, Oracle
+- Generative AI, Data Engineering, Databricks. 
 
 ## Passions
 ### Automation Advocate
