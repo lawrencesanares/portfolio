@@ -1,4 +1,4 @@
-# Release Manager | Release Engineering and Automation | ITSM - Delivery | ITIL | ServiceNow
+# IT Manager - Release and Environment | Release Engineering and Automation | ITSM - Delivery | ITIL | ServiceNow
 Experienced Release Manager with a proven track record in managing end-to-end releases for government IT enterprise environments. Skilled in managing both the technical and non-technical facets of release management, ensuring efficient execution, stakeholder alignment, and high-quality outcomes. Proficient in release engineering, automation, and CI/CD pipelines, with expertise in leveraging Azure DevOps, AWS, ITIL v4, and the Scaled Agile Framework (SAFe) to ensure efficient, seamless, and timely deployments across complex enterprise environments. 
 
 Strong leadership in guiding teams and stakeholders toward achieving project goals and ensuring alignment with business objectives. 
@@ -28,6 +28,7 @@ Played a key role in upholding ITSM-ITIL standards and guided teams through the 
 Spearheaded continuous improvement, enhancing release efficiency and driving high-quality software delivery.
 
 ## Key Projects and Roles
+* Coles Group - Release and Environment Manager (10 mos)
 * Defence Health LTD - Release and Environment Manager (1 yr. 7 mos.)
 * Victorian Land Registry Services - Release Manager (4 yrs. 8 mos.) 
 * Victorian Land Registry Services - Senior Technical Analyst - Release and IT Support (5 yrs+)
