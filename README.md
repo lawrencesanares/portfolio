@@ -56,13 +56,12 @@ AI-powered import/export analytics and market intelligence platform.
 - IT Support, Release Automation CI/CD, ServiceNow, ITIL, Agile Methodologies, AWS, Azure DevOps, DevSecOps, Oracle
 - Generative AI, Data Engineering, Databricks. 
 
-## Passions
-### Automation Advocate
-Passionate about exploring and implementing cutting-edge automation technologies to help drive business growth and efficiency.
-### Advancing Digital Change
-I have a deep interest in harnessing digital technologies, streamlining processes, and driving innovation to benefit the business.
-### Team Engagement
-Passionate about helping teams solve problems through collaboration and leveraging diverse perspectives to foster creative solutions.
+## Goals
+- Help organisations adopt practical, secure, and scalable AI solutions that deliver measurable business value.
+- Design AI-powered products that solve real business challenges and improve decision-making.
+- Bridge the gap between business strategy and AI technology by translating complex concepts into practical solutions.
+- Build enterprise-grade AI platforms using LLMs, RAG, AI agents, and intelligent automation.
+- Contribute to the responsible adoption of AI that improves productivity, innovation, and sustainable business growth.
 
 
 ## 🔗 Links
