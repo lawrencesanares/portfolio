@@ -63,7 +63,6 @@ AI-powered import/export analytics and market intelligence platform.
 - Build enterprise-grade AI platforms using LLMs, RAG, AI agents, and intelligent automation.
 - Contribute to the responsible adoption of AI that improves productivity, innovation, and sustainable business growth.
 
-
 ## 🔗 Links
 
 [![linkedin](https://img.shields.io/badge/view_my_linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lawrencesanares/)
