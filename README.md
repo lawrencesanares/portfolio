@@ -24,7 +24,7 @@ AI-powered digital employees for business process automation and productivity en
 Decision intelligence platform for company operations and strategic decision-making.
 
 >### IT Talent Framework 
-AI-powered talent platform with intelligent end-to-end workflow automation for connecting technology talent with organisations.
+AI-powered talent platform connecting technology talent with organisations through intelligent automation..
 
 >### Trade Intelligence Platform (Design) 
 AI-powered import/export analytics and market intelligence platform.
