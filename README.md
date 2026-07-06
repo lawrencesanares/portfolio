@@ -1,8 +1,8 @@
-# AI Product Architect | AI Business Strategy Lead
+# AI Product & Transformation Lead | Technology Operations Leader | Release Engineering Manager
 *(Former Enterprise IT Leader with experience in Release and Environment Management, Change Management, Software Development, IT Consulting, and IT Service Management.)*
 
 ## Professional Summary
-AI Product Architect and AI Business Strategy Lead with experience designing and delivering AI-powered products, Large Language Model (LLM) solutions, intelligent workflow automation, and AI agent frameworks that enhance productivity and business performance. Proven capability in architecting Retrieval-Augmented Generation (RAG) solutions, AI-powered decision intelligence platforms, digital workforce solutions, and business intelligence products. 
+AI Product & Transformation Lead with experience designing and delivering AI-powered products, Large Language Model (LLM) solutions, intelligent workflow automation, and AI agent frameworks that enhance productivity and business performance. Proven capability in architecting Retrieval-Augmented Generation (RAG) solutions, AI-powered decision intelligence platforms, digital workforce solutions, and business intelligence products. 
 
 Combined with over 12 years of enterprise technology leadership in Release, Environment, and Change Management, with deep expertise in Agile, SDLC, DevOps, CI/CD, and ITIL, delivering complex digital transformation programs across government, retail, and highly regulated industries. 
 
