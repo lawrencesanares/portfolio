@@ -20,13 +20,13 @@ Passionate about designing and delivering scalable, secure, and commercially via
 >### Digital Agent Workforce
 AI-powered digital employees for business process automation and productivity enhancement.
 
->### Executive Decision Framework AI
-Decision intelligence platform providing executive Go/No-Go project evaluations.
+>### Executive Decision Framework
+Decision intelligence platform for company operations and strategic decision-making.
 
 >### IT Talent Framework 
-AI-assisted recruitment platform with resume parsing, candidate scoring, and recruiter workflow automation.
+AI-powered talent platform with intelligent end-to-end workflow automation for connecting technology talent with organisations.
 
->### Trade Intelligence Platform (Design) -
+>### Trade Intelligence Platform (Design) 
 AI-powered import/export analytics and market intelligence platform.
 
 ## Key Industries and Roles
