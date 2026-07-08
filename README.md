@@ -30,7 +30,7 @@ AI-powered talent platform connecting technology talent with organisations throu
 AI-powered import/export analytics and market intelligence platform.
 
 ## Key Industries and Roles
-* ICT Business - AI Product Architect and AI Business Strategy Lead (Current)  
+* ICT Business - AI Product and Transformation Lead (Current)  
 * Major Retail - Release and Environment Manager (10 mos)
 * Defence Health - Release and Environment Manager (1 yr. 7 mos.)
 * Victorian Government - Release Manager (4 yrs. 8 mos.) 
